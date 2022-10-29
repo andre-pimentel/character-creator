@@ -10,6 +10,7 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  z-index: 2;
 }
 
 .title {
